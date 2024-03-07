@@ -1,3 +1,6 @@
+Suchseite für weitere Amazon Connect
+https://github.com/amazon-connect
+
 # Amazon Connect Chat Interface 
 [![Node.js CI](https://github.com/amazon-connect/amazon-connect-chat-interface/actions/workflows/node.js.yml/badge.svg?branch=master)](https://github.com/amazon-connect/amazon-connect-chat-interface/actions/workflows/node.js.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) ![Bundle Size](https://img.shields.io/github/size/amazon-connect/amazon-connect-chat-interface/local-testing/amazon-connect-chat-interface.js?color=green&label=Bundle%20Size)
 
